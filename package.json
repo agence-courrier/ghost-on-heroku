@@ -12,6 +12,7 @@
   "dependencies": {
     "attila": "github:zutrinken/attila#1.13.0",
     "bleak": "github:zutrinken/bleak#1.4.0",
+    "bleak-courrier": "github:agence-courrier/bleak#nav",
     "casper": "github:tryghost/Casper#3.0.4",
     "ghost": "^3.25.0",
     "ghost-storage-adapter-s3": "^2.8.0",

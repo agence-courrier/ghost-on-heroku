@@ -4,10 +4,11 @@ themes=(
 	london
 	massively
 	bleak
+	bleak-courrier
 	the-shell
 	vapor
-        pico
-        lyra
+    pico
+    lyra
 	liebling
 )
 

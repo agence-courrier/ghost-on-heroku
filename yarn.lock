@@ -1055,6 +1055,10 @@ bl@^4.0.1:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
+"bleak-courrier@github:agence-courrier/bleak#nav":
+  version "1.5.0"
+  resolved "https://codeload.github.com/agence-courrier/bleak/tar.gz/ee8690a70772306ed65dfa0e5dc70b7a483ac989"
+
 "bleak@github:zutrinken/bleak#1.4.0":
   version "1.4.0"
   resolved "https://codeload.github.com/zutrinken/bleak/tar.gz/1949a1d39e4ddba6d1218567c1dbd89070cfff3e"
