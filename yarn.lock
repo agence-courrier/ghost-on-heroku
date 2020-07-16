@@ -2389,6 +2389,10 @@ editorconfig@^0.15.3:
     semver "^5.6.0"
     sigmund "^1.0.1"
 
+"editorial@github:tryghost/editorial":
+  version "2.0.0"
+  resolved "https://codeload.github.com/tryghost/editorial/tar.gz/99e68fdd7539e52cafa5d7dcfd6cae54cfb9eef1"
+
 ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
