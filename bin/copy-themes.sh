@@ -9,6 +9,7 @@ themes=(
 	vapor
     pico
     lyra
+	lyra-courrier
 	liebling
 	editorial
 )

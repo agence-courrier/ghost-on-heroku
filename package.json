@@ -21,6 +21,7 @@
     "liebling": "github:eddiesigner/liebling",
     "london": "github:tryghost/london",
     "lyra": "github:tryghost/lyra",
+    "lyra-courrier": "github:agence-courrier/lyra",
     "massively": "github:tryghost/massively",
     "mysql": "^2.18.1",
     "pico": "github:tryghost/pico",
