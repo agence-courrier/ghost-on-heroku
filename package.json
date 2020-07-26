@@ -15,7 +15,7 @@
     "bleak-courrier": "github:agence-courrier/bleak#navbar",
     "casper": "github:tryghost/Casper",
     "editorial": "github:tryghost/editorial",
-    "ghost": "^3.25.0",
+    "ghost": "^3.26.1",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.2",
     "liebling": "github:eddiesigner/liebling",
